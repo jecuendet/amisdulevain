@@ -1,7 +1,7 @@
 title = "Club du levain"
 baseURL = "https://le.clubdulevain.ch"
 languageCode = "fr-ch"
-theme = ["ananke"]
+theme = ["hugo-profile"]
 resourceDir = "../resources"
 
 DefaultContentLanguage = "fr"
