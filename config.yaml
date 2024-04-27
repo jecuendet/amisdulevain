@@ -24,16 +24,11 @@ markup:
 
 Menus:
   main:
-    - identifier: vente
-      name: Vente
-      title: Blog posts
-      url: /blogs
-      weight: 1
     - identifier: gallery
-      name: Gallery
-      title: Blog posts
+      name: Galerie
+      title: Galerie
       url: /gallery
-      weight: 2
+      weight: 1
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -110,8 +105,8 @@ params:
     disableSearch: false
     # searchPlaceholder: "Search"
     stickyNavBar:
-      enable : true
-      showOnScrollUp : true
+      enable: true
+      showOnScrollUp: true
     menus:
       disableAbout: false
       disableExperience: false
@@ -122,32 +117,26 @@ params:
 
   # Hero
   hero:
-    enable: true
+    enable: false
     intro: "Bienvenue!"
     title: "Au Club du Levain"
     subtitle: "Du pain au levain. Sinon rien."
-    content: "Bla bl"
+    content: ""
     image: /images/blanc_graines.jpg
 
   # About
   about:
     enable: true
-    title: "About Me"
-    image: "/images/me.png"
+    title: |-
+      Le Club du Levain.
+      Du pain au levain. Sinon rien.
+    image: /images/blanc_graines.jpg
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      Le club du levain fournit des ressources pour ceux qui aiment le pain au levain naturel.
+      Basé entre Morges et Cossonay, le club vend du pain au levain certaines semaines, et propose des cours
+      pour apprendre à faire son propre levain et son propre pain.
     skills:
-      enable: true
-      title: "Here are a few technologies I've been working with recently:"
-      items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+      enable: false
 
   # Experience
   experience:
