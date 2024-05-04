@@ -1,13 +1,11 @@
 ---
 title: Recettes
+description: Toutes les recettes de nos pains
 featured_image: '/images/pain2.jpg'
-description: Les recettes de nos pains
 type: page
 menu: main
 
 ---
-
-# Recettes des pains vendus par le club
 
 ## Viva la vida
 
@@ -40,6 +38,17 @@ Sel de Bex
 60% de farine d'épeautre bio moulue au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
 
 40% de farine de blé Wiwa bio moulue au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
+
+Levain naturel
+
+Sel de Bex
+
+
+## Mélilot
+
+Farine de blé Wiwa bio moulue au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
+
+Graines de [Mélilot](https://fr.wikipedia.org/wiki/M%C3%A9lilot)
 
 Levain naturel
 
