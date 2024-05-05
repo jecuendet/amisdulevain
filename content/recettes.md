@@ -7,7 +7,7 @@ menu: main
 
 ---
 
-## Viva la vida
+## VivaLaVida
 
 Farine de blé Wiwa bio moulue au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
 
@@ -15,7 +15,7 @@ Levain naturel
 
 Sel de Bex
 
-## Old timer
+## OldTimer
 
 Farine de blés anciens bio moulue au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
 
