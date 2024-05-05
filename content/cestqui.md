@@ -6,9 +6,9 @@ type: page
 menu: main
 ---
 
-![your image](/images/jean-recto.png)
+![your image](/images/jean1.jpg)
 
 Je m'appelle Jean-Eric et j'anime le **Club du Levain**
 
-Je suis tombé dans la marmite du pain au levain en 2018, et suis tombé amoureux de 
+Je suis tombé dans la marmite du pain au levain en 2018, et devenu amoureux de 
 ce processus de fabrication à l'ancienne ainsi qu'au goût typique du levain.
