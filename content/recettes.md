@@ -24,6 +24,22 @@ Levain naturel
 Sel de Bex
 
 
+## ChocoPain
+
+*Non ce n'est pas le pain au chocolat auquel vous pensez, en pâte feuilletée, mais bien
+un pain au levain, dans lequel du chocolat est incorporé. Une tuerie!*
+
+Farine de blé Wiwa bio moulue au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
+
+Chocolat et poudre de chocolat
+
+Noisettes
+
+Levain naturel
+
+Sel de Bex
+
+
 ## Crusty
 
 Mélange de farine et graines (Crusti-grains) du [moulin de la Vaux](https://www.moulindelavaux.ch/)

@@ -8,6 +8,7 @@ SectionPagesMenu = "main"
 Paginate = 10
 
 [params]
+    date_format = "2 January 2006"
     text_color = ""
     author = ""
     favicon = "/favicon.png"
