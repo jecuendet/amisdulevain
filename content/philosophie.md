@@ -1,14 +1,14 @@
 ---
-title: Philosophie du Club
-description:  Philosophie du Club du Levain
+title: Philosophie
+description:  Philosophie de la communauté
 type: page
 menu: main
 
 ---
 
-Nous fabriquons des pains au levain naturel, en levage lent (environ 24h) et pétrissage à la main
+Je fabrique des pains au levain naturel, en levage lent (environ 24h) et pétrissage à la main
 
-Nous privilégions une utilisation locale des farines utilisées pour nos pains:
+Je privilégie une utilisation locale des farines et des ingrédients utilisés pour mes pains:
 
 - Le [clos des Papillons](https://closdespapillons.ch/)
 

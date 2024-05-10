@@ -1,6 +1,6 @@
 baseURL = 'https://les.amisdulevain.ch/'
 languageCode = 'fr-ch'
-title = 'Club du Levain'
+title = 'Les amis du Levain'
 theme = 'ananke'
 
 DefaultContentLanguage = "fr"
