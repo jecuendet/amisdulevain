@@ -1,4 +1,4 @@
-baseURL = 'https://www.amisdulevain.ch/'
+baseURL = 'https://les.amisdulevain.ch/'
 languageCode = 'fr-ch'
 title = 'Club du Levain'
 theme = 'ananke'
