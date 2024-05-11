@@ -15,6 +15,10 @@ Levain naturel
 
 Sel de Bex
 
+Miches de 500-600 grammes
+
+14 CHF le kilo
+
 ## OldTimer
 
 Farine de blés anciens bio moulue au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
@@ -22,6 +26,36 @@ Farine de blés anciens bio moulue au [moulin astrié](https://www.moulin-astrei
 Levain naturel
 
 Sel de Bex
+
+Miches de 500-600 grammes
+
+14 CHF le kilo
+
+
+## Amido
+
+Farine d'amidonnier bio moulue au [moulin astrié](https://www.moulin-astreia.com/) de [La Plumette](https://laplumettaz.wixsite.com/laplumette)
+
+Levain naturel
+
+Sel de Bex
+
+Miches de 500-600 grammes
+
+14 CHF le kilo
+
+
+## Engrain
+
+Farine d'engrain bio moulue au [moulin astrié](https://www.moulin-astreia.com/) de [La Plumette](https://laplumettaz.wixsite.com/laplumette)
+
+Levain naturel
+
+Sel de Bex
+
+Miches de 500-600 grammes
+
+14 CHF le kilo
 
 
 ## ChocoPain
@@ -39,6 +73,10 @@ Levain naturel
 
 Sel de Bex
 
+Miches de 600-700 grammes
+
+16 CHF le kilo
+
 
 ## Crusty
 
@@ -47,6 +85,10 @@ Mélange de farine et graines (Crusti-grains) du [moulin de la Vaux](https://www
 Levain naturel
 
 Sel de Bex
+
+Miches de 500-600 grammes
+
+14 CHF le kilo
 
 
 ## Epeautre
@@ -59,6 +101,10 @@ Levain naturel
 
 Sel de Bex
 
+Miches de 500-600 grammes
+
+14 CHF le kilo
+
 
 ## Mélilot
 
@@ -69,3 +115,7 @@ Graines de [Mélilot](https://fr.wikipedia.org/wiki/M%C3%A9lilot)
 Levain naturel
 
 Sel de Bex
+
+Miches de 500-600 grammes
+
+14 CHF le kilo
