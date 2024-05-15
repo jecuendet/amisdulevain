@@ -42,7 +42,7 @@ Sel de Bex
 
 Miches de 500-600 grammes
 
-14 CHF le kilo
+16 CHF le kilo
 
 
 ## Engrain
@@ -55,7 +55,7 @@ Sel de Bex
 
 Miches de 500-600 grammes
 
-14 CHF le kilo
+16 CHF le kilo
 
 
 ## ChocoPain
