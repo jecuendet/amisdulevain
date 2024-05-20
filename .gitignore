@@ -1,3 +1,7 @@
+target
+*.iml
+*.log
+
 public/*
 resources/_gen
 *~
