@@ -15,7 +15,21 @@ Levain naturel
 
 Sel de Bex
 
-Miches de 500-600 grammes
+Miches de 500 grammes
+
+14 CHF le kilo
+
+## Wiwa aux graines
+
+Farine de blé Wiwa bio moulue au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
+
+Mélange de graines
+
+Levain naturel
+
+Sel de Bex
+
+Miches de 500 grammes
 
 14 CHF le kilo
 
@@ -27,7 +41,7 @@ Levain naturel
 
 Sel de Bex
 
-Miches de 500-600 grammes
+Miches de 500 grammes
 
 14 CHF le kilo
 
@@ -40,7 +54,7 @@ Levain naturel
 
 Sel de Bex
 
-Miches de 500-600 grammes
+Miches de 500 grammes
 
 16 CHF le kilo
 
@@ -53,12 +67,12 @@ Levain naturel
 
 Sel de Bex
 
-Miches de 500-600 grammes
+Miches de 500 grammes
 
 16 CHF le kilo
 
 
-## ChocoPain
+## Cacao
 
 *Non ce n'est pas le pain au chocolat auquel vous pensez, en pâte feuilletée, mais bien
 un pain au levain, dans lequel du chocolat est incorporé. Une tuerie!*
@@ -73,7 +87,7 @@ Levain naturel
 
 Sel de Bex
 
-Miches de 600-700 grammes
+Miches de 500 grammes
 
 16 CHF le kilo
 
@@ -86,7 +100,7 @@ Levain naturel
 
 Sel de Bex
 
-Miches de 500-600 grammes
+Miches de 500 grammes
 
 14 CHF le kilo
 
@@ -101,7 +115,7 @@ Levain naturel
 
 Sel de Bex
 
-Miches de 500-600 grammes
+Miches de 500 grammes
 
 14 CHF le kilo
 
@@ -116,6 +130,6 @@ Levain naturel
 
 Sel de Bex
 
-Miches de 500-600 grammes
+Miches de 500 grammes
 
 14 CHF le kilo
