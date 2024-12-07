@@ -7,8 +7,8 @@ menu: main
 
 ---
 
-## VivaLaVida
-
+## Wiwa
+0
 Farine de blé Wiwa bio moulue au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
 
 Levain naturel
@@ -33,7 +33,7 @@ Miches de 500 grammes
 
 14 CHF le kilo
 
-## OldTimer
+## Blés anciens
 
 Farine de blés anciens bio moulue au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
 
@@ -46,7 +46,7 @@ Miches de 500 grammes
 14 CHF le kilo
 
 
-## Amido
+## Amidonnier
 
 Farine d'amidonnier bio moulue au [moulin astrié](https://www.moulin-astreia.com/) de [La Plumette](https://laplumettaz.wixsite.com/laplumette)
 
@@ -92,7 +92,7 @@ Miches de 500 grammes
 16 CHF le kilo
 
 
-## Crusty
+## Crustigrains
 
 Mélange de farine et graines (Crusti-grains) du [moulin de la Vaux](https://www.moulindelavaux.ch/)
 
