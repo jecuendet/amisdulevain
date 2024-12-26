@@ -5,7 +5,7 @@ theme = 'ananke'
 
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
-Paginate = 10
+pagination.pagerSize = 10
 
 [params]
     date_format = "2 January 2006"

@@ -7,21 +7,19 @@ menu: main
 
 ---
 
-## Wiwa
-0
-Farine de blé Wiwa bio moulue au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
+## Bise claire
+
+Farine de blé bio, mouture bise claire au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
 
 Levain naturel
 
 Sel de Bex
 
-Miches de 500 grammes
-
-14 CHF le kilo
+Miches de 500g pour 7 CHF
 
 ## Wiwa aux graines
 
-Farine de blé Wiwa bio moulue au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
+Farine de blé bio, mouture bise claire au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
 
 Mélange de graines
 
@@ -29,9 +27,7 @@ Levain naturel
 
 Sel de Bex
 
-Miches de 500 grammes
-
-14 CHF le kilo
+Miches de 500g pour 7 CHF
 
 ## Blés anciens
 
@@ -41,10 +37,7 @@ Levain naturel
 
 Sel de Bex
 
-Miches de 500 grammes
-
-14 CHF le kilo
-
+Miches de 500g pour 7 CHF
 
 ## Amidonnier
 
@@ -54,10 +47,7 @@ Levain naturel
 
 Sel de Bex
 
-Miches de 500 grammes
-
-16 CHF le kilo
-
+Miches de 500g  pour 8.50 CHF
 
 ## Engrain
 
@@ -67,19 +57,16 @@ Levain naturel
 
 Sel de Bex
 
-Miches de 500 grammes
-
-16 CHF le kilo
-
+Miches de 500g pour 8.50 CHF
 
 ## Cacao
 
 *Non ce n'est pas le pain au chocolat auquel vous pensez, en pâte feuilletée, mais bien
-un pain au levain, dans lequel du chocolat est incorporé. Une tuerie!*
+un pain au levain, dans lequel du cacao et du chocolat sont incorporés. Une tuerie!*
 
-Farine de blé Wiwa bio moulue au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
+Farine de blé bio, mouture bise claire au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
 
-Chocolat et poudre de chocolat
+Chocolat et cacao
 
 Noisettes
 
@@ -87,10 +74,7 @@ Levain naturel
 
 Sel de Bex
 
-Miches de 500 grammes
-
-16 CHF le kilo
-
+Miches de 500g pour 8.50 CHF
 
 ## Crustigrains
 
@@ -100,10 +84,7 @@ Levain naturel
 
 Sel de Bex
 
-Miches de 500 grammes
-
-14 CHF le kilo
-
+Miches de 500g pour 7 CHF
 
 ## Epeautre
 
@@ -115,14 +96,11 @@ Levain naturel
 
 Sel de Bex
 
-Miches de 500 grammes
-
-14 CHF le kilo
-
+Miches de 500g pour 7 CHF
 
 ## Mélilot
 
-Farine de blé Wiwa bio moulue au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
+Farine de blé bio, mouture bise claire au [moulin astrié](https://www.moulin-astreia.com/) du [clos des Papillons](https://closdespapillons.ch/)
 
 Graines de [Mélilot](https://fr.wikipedia.org/wiki/M%C3%A9lilot)
 
@@ -130,6 +108,4 @@ Levain naturel
 
 Sel de Bex
 
-Miches de 500 grammes
-
-14 CHF le kilo
+Miches de 500g pour 7 CHF
