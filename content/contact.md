@@ -1,7 +1,7 @@
 ---
 title: Contact
 description: Laissez-nous un message!
-featured_image: '/images/pain1.jpg'
+featured_image: '/images/chocopain.jpg'
 type: page
 menu: main
 layout: "contact"

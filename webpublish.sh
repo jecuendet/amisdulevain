@@ -11,5 +11,6 @@ fi
 
 DIR="/var/www/amisdulevain.ch"
 echo "* Sending to $DIR ..."
-ssh  jec@alf.jesc.ch "rm -Rf $DIR/*"
-scp -r public/* root@alf.jesc.ch:$DIR/
+#ssh  root@alf.jesc.ch "rm -Rf $DIR/*"
+#scp -r public/* root@alf.jesc.ch:$DIR/
+rsync -ravz public/* jec@alf.jesc.ch:/var/www/amisdulevain.ch

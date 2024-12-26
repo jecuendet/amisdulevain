@@ -2,7 +2,7 @@
 title: "Les amis du Levain"
 description: "Pour les amoureux du bon pain"
 cascade:
-  featured_image: '/images/2pains.jpg'
+  featured_image: '/images/main.jpg'
 ---
 
 Les amis du levain, ce sont les amateurs de bon pain ... au levain!
