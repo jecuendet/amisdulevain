@@ -9,8 +9,9 @@ layout: "contact"
 
 Envoyez-moi un message :
 
-- si vous voulez commander
+- pour un commentaire ou une remarque
 - si vous avez une question
+- pour une réservation
 - si vous désirez être averti de la disponibilité des fournées
 
 
